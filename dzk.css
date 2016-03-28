@@ -1,0 +1,22 @@
+*{
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+body{
+	overflow: hidden;
+}
+#my{
+	position: absolute;
+	width: 75px;
+	height: 20px;
+	background-color: #ccc;
+
+}
+#myBall{
+	position: absolute;
+	width: 8px;
+	height: 8px;
+	background-color: red;
+	border-radius: 4px;
+}
